@@ -50,6 +50,14 @@ main {
         padding: 20px;
         margin: 20px;
     }
+    .info-box {
+    background-color: #3b3b63;
+    border: 3px solid #d58be0;
+    border-radius: 12px;
+    padding: 30px;
+    margin: 30px auto;
+    max-width: 600px;
+}
     .photo {
     max-width: 100%;
     height: auto;
